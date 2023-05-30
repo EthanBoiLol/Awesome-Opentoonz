@@ -2,7 +2,7 @@
 A list of Opentoonz tools, plugins, forks, and more!
 
 ## Symbols
-[FREE] = Open Source
+[🆓] = Free/Open Source
 
 [$] = Paid
 
