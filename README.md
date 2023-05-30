@@ -4,7 +4,7 @@ A list of Opentoonz tools, plugins, forks, and more!
 ## Symbols
 [🆓] = Free/Open Source
 
-[$] = Paid
+[💲] = Paid
 
 [🍴] = Fork
 
