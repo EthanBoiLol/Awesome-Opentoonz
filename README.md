@@ -6,19 +6,14 @@ A list of Opentoonz tools, plugins, forks, and more!
 
 [💲] = Paid
 
-[🍴] = Fork
 
-[🔌] = Plugin
+# Plugins 🔌
+[Dwango Opentoons Plugin](https://github.com/opentoonz/dwango_opentoonz_plugins) : An open source plugin created by Dwango that adds FX to Opentoonz 🆓
 
-[👗] = Theme
+# Forks 🍴
 
-[📥] = Third-Party tool
+# Theme 👗
 
-[📖] = Resource
+# Standalone software 📥
 
-# Plugins
-[Dwango Opentoons Plugin](https://github.com/opentoonz/dwango_opentoonz_plugins) : An open source plugin created by Dwango that adds FX to Opentoonz 🔌 🆓
-
-# Forks
-
-# Standalone software
+# Resource 📖
