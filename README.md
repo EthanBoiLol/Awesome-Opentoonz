@@ -31,7 +31,7 @@ A list of Opentoonz tools, plugins, forks, and more!
 
 [Inkscape](https://inkscape.org/) : An open source software for digital vector art 🆓
 
-[Toon Boom Harmony](https://www.toonboom.com/products/harmony) : An animation software that is the industry standard. It contains features that Opentoonz doesn't, can be used alongside Opentoonz 💲
+[Toon Boom Harmony](https://www.toonboom.com/products/harmony) : An animation software that is the industry standard. Can be used alongside Opentoonz 💲
 
 [Blender](https://www.blender.org/) : An open source 3D software 🆓
 
