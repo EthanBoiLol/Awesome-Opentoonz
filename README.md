@@ -6,6 +6,13 @@ A list of Opentoonz tools, plugins, forks, and more!
 
 [💲] = Paid
 
+## Official
+[Official Website](https://opentoonz.github.io)
+
+[Reddit](https://www.reddit.com/r/OpenToonz/)
+
+[Github](https://github.com/opentoonz/opentoonz)
+
 
 # Plugins 🔌
 [Dwango Opentoonz Plugin](https://github.com/opentoonz/dwango_opentoonz_plugins) : An open source plugin created by Dwango that adds FX to Opentoonz 🆓
