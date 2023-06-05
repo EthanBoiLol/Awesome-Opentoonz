@@ -23,7 +23,7 @@ A list of Opentoonz tools, plugins, forks, and more!
 
 [Opentoonz: Morevna Edition](https://morevnaproject.org/opentoonz/) : Opentoonz with additional tools, features, and optimizations 🆓
 
-[Opentoonz: Portable](https://github.com/manongjohn/OTX) : A portable version of Opentoonz with contains fixes, changes, and features down the road 🆓
+[Opentoonz: Experimental (OSX)](https://github.com/manongjohn/OTX) : A portable version of Opentoonz with contains fixes, changes, and features down the road 🆓
 
 [Tahoma2D](https://tahoma2d.org/) : A fork of Opentoonz that contains fixes and tools for 2D and Stop-Motion animators 🆓
 
