@@ -6,6 +6,8 @@ A list of Opentoonz tools, plugins, forks, and more!
 
 [💲] = Paid
 
+[⛔] = Discontinued
+
 ## Official
 [Official Website](https://opentoonz.github.io)
 
@@ -17,11 +19,9 @@ A list of Opentoonz tools, plugins, forks, and more!
 # Plugins 🔌
 [Dwango Opentoonz Plugin](https://github.com/opentoonz/dwango_opentoonz_plugins) : An open source plugin created by Dwango that adds FX to Opentoonz 🆓
 
-[Aotz](https://github.com/andeon/aotz) : A Brush Package optimized for Opentoonz 🆓
-
 # Forks 🍴
 
-[Opentoonz: Morevna Edition](https://morevnaproject.org/opentoonz/) : Opentoonz with additional tools, features, and optimizations 🆓
+[Opentoonz: Morevna Edition ⛔](https://morevnaproject.org/opentoonz/) : Opentoonz with additional tools, features, and optimizations 🆓 ⛔
 
 [Opentoonz: Experimental (OSX)](https://github.com/manongjohn/OTX) : A portable version of Opentoonz with contains fixes, changes, and features down the road 🆓
 
